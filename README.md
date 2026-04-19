@@ -3,9 +3,9 @@ Simulador Avanzado de Gestión de Memoria(MMU) en Pseudocódigo
 
 # Grupo 2
 
--Brenda Ivania Lainez Vides | lv19015
--Kevin Daniel Hernández Belloso | hh25003
--Alfredo Enrique Ortiz Hernández | oh23001
+- Brenda Ivania Lainez Vides | lv19015. 
+- Kevin Daniel Hernández Belloso | hh25003.
+- Alfredo Enrique Ortiz Hernández | oh23001.
 
 # Descripción del Proyecto
 

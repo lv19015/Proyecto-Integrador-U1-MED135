@@ -29,7 +29,7 @@ La simulación procesa una secuencia predefinida de páginas lógicas [1, 2, 3, 
 
 ### Pasos para ejecutar
 
-1. Abre el archivo `SimuladorMMU.psc` en PSeInt.
+1. Abrir cada archivo de los retos `AdministradorMemoriaReto1.psc`, `AdministradorMemoria_Reto2.psc`, `AdministradorMemoriaReto_3.psc` en PSeInt.
 2. Asegúrate de que el perfil de ejecución permita el uso de **subprocesos** (funciones y procedimientos).
 3. Ejecuta la simulación presionando **F9** o el botón **Ejecutar**.
 4. El programa mostrará en consola:
